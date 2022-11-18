@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ChuckJokeSomething": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7255",
+      "launchBrowser": false
+    }
+  }
+}
